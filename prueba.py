@@ -1,8 +1,8 @@
-a= "Hola mundo"
-print (a)
+a = "Hello World"
+print(a)
 
-b= 1
-print (b)
+b = 1
+print(b)
 
-
-
+c = 2
+print(c)
