@@ -1,1 +1,3 @@
-print("Hola mundo")
+a= "Hola mundo"
+print (a)
+
